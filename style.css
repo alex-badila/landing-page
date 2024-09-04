@@ -58,7 +58,8 @@ button {
 }
 
 .picture-and-subtext-container {
-    display: flex;  
+    display: flex;
+    justify-content: space-between;  
 }
 
 .information-text {
@@ -74,4 +75,20 @@ button {
 
 .picture-and-subtext {
     flex: 1;
+}
+
+.container-3 {
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1f2937;
+    text-align: center;
+}
+
+.attribution {
+    font-style: bold;
+    text-align: center;
 }
