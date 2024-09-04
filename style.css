@@ -52,3 +52,26 @@ button {
 .subcontainer-2 {
     flex: 1;
 }
+
+.container-2 {
+    background-color: white;
+}
+
+.picture-and-subtext-container {
+    display: flex;  
+}
+
+.information-text {
+    font-size: 36px;
+    text-align: center;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.picture {
+    border: 1px solid blue;
+}
+
+.picture-and-subtext {
+    flex: 1;
+}
