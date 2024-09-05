@@ -51,6 +51,7 @@ button {
 
 .subcontainer-2 {
     flex: 1;
+    margin: 20px;
 }
 
 .container-2, .container-4 {
@@ -109,3 +110,10 @@ button {
     flex: 1;
 }
 
+.footer-text {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
