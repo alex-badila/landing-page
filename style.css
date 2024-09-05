@@ -53,7 +53,7 @@ button {
     flex: 1;
 }
 
-.container-2 {
+.container-2, .container-4 {
     background-color: white;
 }
 
@@ -92,3 +92,20 @@ button {
     font-style: bold;
     text-align: center;
 }
+
+.subcontainer-3 {
+    background-color: #3882f6;
+    color: white;
+    height: 200px;
+    width: 1000px;
+    display: flex;
+}
+
+.sign-up-text {
+    flex: 1;
+}
+
+.sign-up-button {
+    flex: 1;
+}
+
